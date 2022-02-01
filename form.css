@@ -1,0 +1,27 @@
+h3{
+    text-align: center;
+}
+.form{ 
+    margin: 0%;
+    width: 500px;
+    height:670px;
+    position: relative;
+    margin: 5% auto;
+    background: white;
+    padding: 3px;
+    border:1px solid rgb(167, 153, 134) ;
+}
+.form-group{
+    text-align: center;
+    padding: 7px;
+}
+button{
+    background-color: rgb(143, 172, 180);
+    border:none;
+    height: 30px;
+    width:150px;
+    text-align: center;
+}
+.file{
+    margin-left: 30px;
+}

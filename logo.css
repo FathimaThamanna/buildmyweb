@@ -1,0 +1,12 @@
+img{
+    position: relative;
+    height: 70px;
+    width:100px;
+}
+nav{
+    background-color: rgb(150, 230, 226);
+    height:100px
+}
+nav ul {
+     margin-left: 950px;
+}
